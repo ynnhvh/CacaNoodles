@@ -160,3 +160,4 @@ b77486d7-cb24-4690-986a-42b8d26ae22a nunyabidness
 cb00cde4-0918-430b-b3d8-665dbd207a2d Redox
 b4634992-74f4-4cdc-97ca-4fd84d08a55d Floofy 
 f3d644ea-031a-4bd4-bde8-c398a8a0efd6 Captive
+fa20729d-b5d0-4dee-9825-9b58c726ae3f Bot Charlie
